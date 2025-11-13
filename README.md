@@ -1,4 +1,4 @@
-# AI PM Skills Repository
+# AI PM Claude Code Skills
 
 A comprehensive collection of Claude Skills specifically designed for AI Product Managers. This repository provides production-ready skills to help AI PMs with product strategy, roadmapping, user research, competitive analysis, feature prioritization, stakeholder management, and AI-specific product development.
 
